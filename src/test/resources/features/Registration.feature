@@ -10,7 +10,7 @@ Feature: User Registration
     Given I am on the Automation Zone page
     And I am a new user
       | username    | email                 | password        |
-      | Testuser107 | Testuser107@gmail.com | Password@123$#$ |
+      | Testuser108 | Testuser108@gmail.com | Password@123$#$ |
 
     And I log out from the application
 
